@@ -4,7 +4,7 @@
  * Author: Dr. Mark E. Lehr
  * Created on July 7th, 2017, 11:32 AM
  * Purpose:  Flowchart Exercise of each construct
- *           Revised for Java script
+ *           Revised for PHP script
  */
 -->
 <html>
@@ -14,8 +14,8 @@
         <?php
             function main() {
                 //Declare variables note:  not necessary
-                $x;
-                $msg;
+                $x;    //Example Variable utilized for inputs
+                $msg;  //Example String output variable
 
                 //Input the value of x but cookies lag behind
                 $prompt_msg="Input the value of x, x must be integer >= 0 and <= 2 , x=";

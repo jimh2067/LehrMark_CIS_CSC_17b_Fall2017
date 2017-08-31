@@ -18,8 +18,8 @@ using namespace std; //Name-space under which system libraries exist
 //Execution begins here
 int main(int argc, char** argv) {
     //Declare variables
-    int x;
-    string msg;
+    int x;      //Example Variable utilized for inputs
+    string msg; //Example String output variable
     
     //Input the value of x
     cout<<"Input the value of x, x must be integer >= 0 and <= 2"<<endl;
